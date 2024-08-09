@@ -1,0 +1,131 @@
+.first-section { 
+    background: url(/Images/cover.jpg);
+    box-shadow: 10px 10px lightblue;
+    background-size: cover;
+    height: 700px;
+    border-bottom-width: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(35, 35, 35);;
+}
+
+.header {
+    height: 90px;
+    padding-left: 48px;
+    padding-right: 48px;
+    margin-right: 111.922px;
+    margin-left: 111.922px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    margin-top: 5px;
+}
+.Netflix-logo {
+    width: 100px;
+}
+
+.select-language {
+    font-weight: bold;
+    width: 125px;
+    height: 35px;
+    background-color: rgba(22, 22, 22, 0.7);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(128, 128, 128, 0.7);
+    margin-right: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.translate-icon {
+    height: 15px;
+}
+
+.arrow-icon {
+    height: 12px;
+    padding-top: 3px;
+    padding-right: 3px;
+    
+}
+
+.sign-in {
+    font-weight: 700;
+
+    width: 65px;
+    padding: 8px;
+    background-color: rgb(229, 9, 20);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+
+    text-align: center;
+}
+.middle-section {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.first-text {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.second-text {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 10px;
+}
+
+.third-text {
+    font-family: Arial;
+    font-size: 1.25rem;
+}
+
+.sign-in-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Email-bar {
+    height: 30px;
+    width: 300px;
+    margin-right: 8px;
+
+    background-color: rgba(29, 29, 29, 0.7);
+    background-color: rgba(29, 29, 29, 0.7);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+
+    padding: 10px;
+}
+
+.get-started {
+    font-size: 1.5rem;
+    
+    width: 130px;
+    background-color: rgb(229, 9, 20);
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+
+    padding: 12px;
+}

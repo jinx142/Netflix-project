@@ -1,0 +1,26 @@
+.fifth-section {
+    background-size: cover;
+    height: 520px;
+    border-bottom-width: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(35, 35, 35);;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kids-img {
+    height: 400px;
+}
+
+.msg-009 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.msg-010 {
+    font-size: 1.5rem;
+    width: 480px;
+}

@@ -1,0 +1,25 @@
+.second-section {
+    background-size: cover;
+    height: 520px;
+    border-bottom-width: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(35, 35, 35);;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.msg-001 {
+    margin: 0;
+    font-size: 3rem;
+}
+.msg-002 {
+    font-size: 1.5rem;
+    width: 500px;
+}
+
+.tv-img {
+    height: 400px;
+}

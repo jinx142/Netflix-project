@@ -1,0 +1,75 @@
+.third-section {
+    background-size: cover;
+    height: 520px;
+    border-bottom-width: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(35, 35, 35);;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mobile-pic {
+    height: 400px;
+}
+
+.Downloading-container {
+    background-color: black;
+
+    position: absolute;
+    top: 265px;
+    
+    width: 300px;
+    height: 100px;
+
+    border-width: 2px;
+    border-radius: 9px;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.7);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    box-shadow: 0 0 2em 0 rgb(0, 0, 0);
+}
+
+.stranger-things-poster {
+    height: 75px;
+}
+
+.msg-003 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.msg-004 {
+    color:rgb(0, 113, 235);
+    font-size: 0.75rem;
+    margin: 0;
+}
+
+
+.download-icon {
+    height: 25px;
+}
+
+.msg-005 {
+    margin: 0;
+    width: 500px;
+    font-size: 3rem;
+}
+
+.msg-006 {
+    width: 500px;
+    font-size: 1.5rem;
+}

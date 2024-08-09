@@ -1,0 +1,44 @@
+.sixth-section {
+    background-size: cover;
+    height: 870px;
+    border-bottom-width: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(35, 35, 35);;
+    background-color: black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    align-items: center;
+}
+.msg-011 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+
+.questions-container {
+    font-size: 1.5rem;
+
+    cursor: pointer;
+    border: none;
+    line-height: 36px;
+    width: 975.156px;                
+
+    padding: 24px;
+    background-color: rgb(45, 45, 45);
+    color: white;
+    margin-bottom: 10px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.plus-icon {
+    height: 35px;
+}
+
+.msg-012 {
+    margin-bottom: 0;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
